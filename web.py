@@ -152,4 +152,4 @@ if selected=='Parkinson\'s Prediction':
             st.success(parkinsons_diagnosis)
 
 
-#python -m streamlit run web.py-running command
+
